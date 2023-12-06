@@ -1,5 +1,4 @@
-﻿using MonkeyCache.FileStore;
-
+﻿
 namespace Microsoft.NetConf2021.Maui;
 
 public static class MauiProgram
